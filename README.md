@@ -29,5 +29,7 @@ This targets students and researchers within icipe who are interested / working 
 - Introduction to Linux command line
 - Organizing a genomic project workspace (Genomic Data Management Plan)
 - Introduction to data backup and version control (e.g. Git and GitHub)
-- How to ensure reproducible Bioinformatics Research
-- An overview on the bioinformatics capacity and resources available at icipe
+- How to ensure Reproducible Bioinformatics Research
+- An overview on the bioinformatics capacity and resources available at *icipe*
+
+See [Course Content](CourseContent.md) for more details. 
