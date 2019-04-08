@@ -6,7 +6,7 @@
 
 **Venue:** Bioinformatics Training Lab, Carol Wilson
 
-**Capacity:** The training lab has a capacity of 20, therefore, please secure your spot by replying to this email before 21st April 2019. 
+**Capacity:** The training lab has a capacity of 20, therefore, please secure your spot by applying through [this link](provide REDCap Link) before 21st April 2019. 
 
 **Website:** The resources used in this training are – or will be – available on the website: 
 
