@@ -13,19 +13,19 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 * Filling [Bioinformatics Needs Assessment Survey](https://redcap.icipe.org/surveys/?s=9FJNXXNHC7) (If you haven't)
 
 ### 9:30AM - 10:30AM: Introduction (Caleb and Ouso)
-* Presentation on Open Science (20 minutes)
+* Presentation on Open Science (20 minutes) -- Gilbert and Careen
 * Bioinformatics capacity and resources at icipe (20 minutes)
-* Introduction to genomics and Bioinformatics (20 minutes)
+* Introduction to genomics and Bioinformatics (20 minutes) -- Jacob
 
 ### 10:30AM - 10:45AM
 * Tea Break
 
-### 10:45 - 11:30AM: Commandline (Jacob and Gilbert)
+### 10:45 - 11:30AM: Commandline (Careen and Gilbert)
 * Basic Linux commandline introduction
 
 ### 11:30 - 1:00: Introduction to Git and GitHub (Caleb and Gilbert)
 * Markdown syntax
-* markdown editors
+* Markdown editors
 * Introduction to version Contol
 * Setting up GitHub account
 * GitHub terminologies
@@ -38,19 +38,19 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 * What is a data management plan?
 * How do you design a data management plan?
 
-### 2:30PM - 3:30PM: Hands-on GitHub (Caleb)
+### 2:30PM - 3:30PM: Hands-on GitHub (Caleb and Kennedy)
 * Creating a Git repository
 * Adding changes to stage
 * Committing changes
 * Pushing changes to GitHub
 
 
-### 3:30 - 4:00PM: Reproducible Bioinformatics Research (Who's comfortable with this? I can help)
-* What makes a genomics project reprodcibel
+### 3:30 - 4:00PM: Reproducible Bioinformatics Research (Caleb and Jacob)
+* What makes a genomics project reprodcible?
 * Tools for planning and executing a reprodicible project
-* Research notebook in Bioinforatics
+* Research notebook in Bioinformatics (Jacob)
 
-### 4:00PM - 4:30PM: Interactive Sessions (Careen and Pauline?)
+### 4:00PM - 5:00PM: Interactive Sessions (Careen and Pauline?)
 * Group discussions and interactions (We can use Amels cards here)
 * Hands-on Group activities on Open Science and Data Management Plan
 
