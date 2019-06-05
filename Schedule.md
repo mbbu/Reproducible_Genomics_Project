@@ -16,6 +16,7 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 * [Presentation on Open Science](https://docs.google.com/presentation/d/18ldedgpdM9S1ve_Gw9JRRvXZmssZALXfapOAkvYjCU4/edit?usp=sharing) (20 minutes) -- Gilbert and Careen
 * [Bioinformatics capacity and resources at icipe](https://docs.google.com/presentation/d/1vKn_LRcLVkt3ItXj2rDc-4NQOkJKmbUyp6Xj1o6uASg/edit?usp=sharing) (20 minutes)
 * [Introduction to genomics and Bioinformatics](https://docs.google.com/presentation/d/1wYX9r9XVak3h7L5qpTscSrgTeT40mzHg6UBlEBk6y54/edit?usp=sharing) (20 minutes) -- Jacob
+* [Organizing a genomic project workspace (Genomic Data Management Plan](https://docs.google.com/presentation/d/1pIqF7T2XhEDpLDuKEYhqYzD1LeMaiF1OSjTQCxm5GXc/edit#slide=id.g593a96f09c_1_131) (20 minutes) -- Ouso
 
 ### 10:30AM - 10:45AM
 * Tea Break
