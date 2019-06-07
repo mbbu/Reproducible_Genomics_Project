@@ -23,6 +23,7 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 
 ### 10:45 - 11:30AM: Commandline (Careen and Gilbert)
 * [Basic Linux commandline introduction](https://github.com/kibet-gilbert/Introduction-to-Linux/blob/master/Introduction%20to%20Linux.md)
+* [Slides](https://docs.google.com/presentation/d/1eCBfNArGsKRg715hvFMCrTU6dmA4Ctu0W39yOCCZPLM/edit#slide=id.p)
 
 ### 11:30 - 1:00: Introduction to Git and GitHub (Caleb and Gilbert)
 * Markdown syntax
