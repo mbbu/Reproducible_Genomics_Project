@@ -22,7 +22,7 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 * Tea Break
 
 ### 10:45 - 11:30AM: Commandline (Careen and Gilbert)
-* Basic Linux commandline introduction
+* [Basic Linux commandline introduction](https://github.com/kibet-gilbert/Introduction-to-Linux/blob/master/Introduction%20to%20Linux.md)
 
 ### 11:30 - 1:00: Introduction to Git and GitHub (Caleb and Gilbert)
 * Markdown syntax
