@@ -19,7 +19,7 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 * [Organizing a genomic project workspace (Genomic Data Management Plan)](https://docs.google.com/presentation/d/1pIqF7T2XhEDpLDuKEYhqYzD1LeMaiF1OSjTQCxm5GXc/edit#slide=id.g593a96f09c_1_131) (20 minutes) -- Ouso
 
 ### 10:30AM - 10:45AM
-* Tea Break
+* Tea Break (Provided)
 
 ### 10:45 - 11:30AM: Commandline (Careen and Gilbert)
 * [Basic Linux commandline introduction](https://github.com/kibet-gilbert/Introduction-to-Linux/blob/master/Introduction%20to%20Linux.md)
@@ -33,7 +33,7 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 * Markdown editors
 
 ### 1:00PM - 1:45PM
-* LUNCH
+* LUNCH (Not Provided)
 
 ### 1:45 - 2:30: [Genomic Data Management Plan](https://docs.google.com/presentation/d/1pIqF7T2XhEDpLDuKEYhqYzD1LeMaiF1OSjTQCxm5GXc/edit#slide=id.g593a96f09c_1_131) (Ouso and Jacob)
 * Inroduction to FAIR data
@@ -46,8 +46,10 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 * Committing changes
 * Pushing changes to GitHub
 
+### 3:30AM - 3:45PM
+* Tea Break (Provided)
 
-### 3:30 - 4:00PM: Reproducible Bioinformatics Research (Caleb and Jacob)
+### 3:30 - 4:15PM: Reproducible Bioinformatics Research (Caleb and Jacob)
 * [What makes a genomics project reprodcible](https://drive.google.com/open?id=1Ao4AX20BiNeuBJOlk2Fitr_MAjx_jdIv)?
 * Tools for planning and executing a reprodicible project
 * Research notebook in Bioinformatics (Jacob)
