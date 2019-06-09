@@ -39,7 +39,8 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 * Inroduction to FAIR data
 * What is a data management plan?
 * How do you design a data management plan?
-
+* [DMP design framework](https://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/framework.html)
+* [Genomic DMP Example](https://www.multiscalegenomics.eu/MuG/wp-content/uploads/2017/04/D4.2_v1.0.pdf)
 ### 2:30PM - 3:30PM: [Hands-on GitHub](https://github.com/BioinfoNet/TeachingGit) (Caleb and Kennedy)
 * Creating a Git repository
 * Adding changes to stage
