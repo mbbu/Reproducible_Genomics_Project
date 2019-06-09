@@ -35,12 +35,12 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 ### 1:00PM - 1:45PM
 * LUNCH
 
-### 1:45 - 2:30: Genomic Data Management Plan (Ouso and Jacob)
+### 1:45 - 2:30: [Genomic Data Management Plan](https://docs.google.com/presentation/d/1pIqF7T2XhEDpLDuKEYhqYzD1LeMaiF1OSjTQCxm5GXc/edit#slide=id.g593a96f09c_1_131) (Ouso and Jacob)
 * Inroduction to FAIR data
 * What is a data management plan?
 * How do you design a data management plan?
 
-### 2:30PM - 3:30PM: Hands-on GitHub (Caleb and Kennedy)
+### 2:30PM - 3:30PM: [Hands-on GitHub](https://github.com/BioinfoNet/TeachingGit) (Caleb and Kennedy)
 * Creating a Git repository
 * Adding changes to stage
 * Committing changes
@@ -48,7 +48,7 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 
 
 ### 3:30 - 4:00PM: Reproducible Bioinformatics Research (Caleb and Jacob)
-* What makes a genomics project reprodcible?
+* [What makes a genomics project reprodcible](https://drive.google.com/open?id=1Ao4AX20BiNeuBJOlk2Fitr_MAjx_jdIv)?
 * Tools for planning and executing a reprodicible project
 * Research notebook in Bioinformatics (Jacob)
 
