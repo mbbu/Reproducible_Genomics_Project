@@ -44,7 +44,7 @@ From the above objectives, the workshop participant should acquire the following
 - Gilbert Kibet
 - Daniel Ouso
 - Careen Naitore
-
+- Kennedy 
 ### Who should attend?
 
 This targets students and researchers within icipe who are interested / working with genomic data. There are no pre-requisites for this training. 
