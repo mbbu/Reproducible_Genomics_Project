@@ -27,7 +27,7 @@ Here's the roadmap for the Reproducibility in genomics Workshop:
 
 ### 11:30 - 1:00: Introduction to Git and GitHub (Caleb and Gilbert)
 * Introduction to version Contol
-* [Setting up GitHub account](https://docs.google.com/presentation/d/1kO7dmdKVJ4sqMyRHfJIqi8HgFn8wlDUz7M5zI_0IpkU/edit#slide=id.g3e08b71c2d_1_0)
+* [Setting up GitHub account](https://docs.google.com/presentation/d/1kO7dmdKVJ4sqMyRHfJIqi8HgFn8wlDUz7M5zI_0IpkU/edit?usp=sharing)
 * GitHub terminologies
 * [Markdown syntax](https://github.com/BioinfoNet/IntroductoryMarkdown)
 * Markdown editors
